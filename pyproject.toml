@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "unexpectation-handler"
 version = "1.0.1"
-description = "Never trust users! Encapsulate \"isolating program vulnerabilities (errors, exceptions, or results due to unexpected input) that may be caused by executed code\" and \"Calling function that handle them\" as a package of Python."
+description = "Never trust users! Encapsulate \"isolating program vulnerabilities (errors, exceptions, or results due to unexpected input) that may be caused by executed code\" and \"calling function that handle them\" as a package of Python."
 license = "MIT"
 authors = ["leoweyr <leoweyr@foxmail.com>"]
 readme = "README.md"
